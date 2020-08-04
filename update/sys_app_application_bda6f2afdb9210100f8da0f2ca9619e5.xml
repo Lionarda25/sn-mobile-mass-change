@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>mobile</device_type>
+        <hint/>
+        <name/>
+        <order>100</order>
+        <roles>x_snc_mobile_mass.mass_change_ci_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-04 13:48:00</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>bda6f2afdb9210100f8da0f2ca9619e5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Mass Change CIs</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Mobile Mass Change" source="x_snc_mobile_mass">3554686f4f6367009881c5c18110c72b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile Mass Change">3554686f4f6367009881c5c18110c72b</sys_scope>
+        <sys_update_name>sys_app_application_bda6f2afdb9210100f8da0f2ca9619e5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-04 13:48:00</sys_updated_on>
+        <title>Mass Change CIs</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
     <sys_sg_action_param_map action="INSERT_OR_UPDATE">
         <button display_value="Add CI">d47ba4a74fa367009881c5c18110c7f8</button>
-        <item_parameter display_value="asset_tag">c24b24a74fa367009881c5c18110c7ab</item_parameter>
+        <item_parameter display_value="serial_number">c24b24a74fa367009881c5c18110c7ab</item_parameter>
         <sys_class_name>sys_sg_action_param_map</sys_class_name>
         <sys_created_by>Arnoud.Kooi</sys_created_by>
         <sys_created_on>2019-02-16 18:27:27</sys_created_on>
@@ -14,6 +14,6 @@
         <sys_update_name>sys_sg_action_param_map_211c20e74fa367009881c5c18110c72d</sys_update_name>
         <sys_updated_by>Arnoud.Kooi</sys_updated_by>
         <sys_updated_on>2019-02-16 18:27:27</sys_updated_on>
-        <ui_parameter display_value="Asset Tag">b09b68a74fa367009881c5c18110c788</ui_parameter>
+        <ui_parameter display_value="Serial Number">b09b68a74fa367009881c5c18110c788</ui_parameter>
     </sys_sg_action_param_map>
 </record_update>

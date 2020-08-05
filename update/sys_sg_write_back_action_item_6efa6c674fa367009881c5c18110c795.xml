@@ -3,7 +3,7 @@
         <description/>
         <execution_script><![CDATA[(function WriteBackAction(input) {
 	var grCI = new GlideRecord('cmdb_ci');
-	grCI.get('asset_tag', input.asset_tag);
+	grCI.get('serial_number', input.serial_number);
 	var sys_id = grCI.getUniqueValue();
 	
 	var grMC = new GlideRecord('x_snc_mobile_mass_mass_change_ci');
@@ -23,14 +23,14 @@
         <sys_created_by>Arnoud.Kooi</sys_created_by>
         <sys_created_on>2019-02-16 18:23:36</sys_created_on>
         <sys_id>6efa6c674fa367009881c5c18110c795</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>mass_update_add_ci</sys_name>
         <sys_package display_value="Mobile Mass Change" source="x_snc_mobile_mass">3554686f4f6367009881c5c18110c72b</sys_package>
         <sys_policy/>
         <sys_scope display_value="Mobile Mass Change">3554686f4f6367009881c5c18110c72b</sys_scope>
         <sys_update_name>sys_sg_write_back_action_item_6efa6c674fa367009881c5c18110c795</sys_update_name>
-        <sys_updated_by>Arnoud.Kooi</sys_updated_by>
-        <sys_updated_on>2019-02-16 20:13:52</sys_updated_on>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-05 07:52:36</sys_updated_on>
         <table>x_snc_mobile_mass_mass_change_ci</table>
         <template/>
         <type>script</type>
